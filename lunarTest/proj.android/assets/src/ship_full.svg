@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.02"
+     inkscape:cx="17.172057"
+     inkscape:cy="59.362237"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1006"
+     inkscape:window-height="885"
+     inkscape:window-x="798"
+     inkscape:window-y="80"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36218)">
+    <g
+       id="g3774"
+       transform="matrix(0.67,0,0,0.67,-0.5874137,279.7377)">
+      <path
+         id="path2985"
+         transform="translate(0,956.36218)"
+         d="M 48,8.9375 48,9.125 18.3125,21 13.125,59.78125 l 18.96875,9.5 16.15625,-8.875 16.125,8.875 1.0625,-0.53125 0.9375,0.53125 18.96875,-9.5 L 80.1875,21 50,8.9375 50,9.71875 48.46875,9.125 l 0,-0.1875 L 48.25,9.03125 48,8.9375 z"
+         style="fill:none;stroke:#5fbcd3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="translate(0,956.36218)"
+         inkscape:connector-curvature="0"
+         id="path3760"
+         d="m 6.0344828,22.724138 0,12.068965 11.2068962,-12.068965 z"
+         style="fill:none;stroke:#5fbcd3;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#5fbcd3;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 91.241379,979.08632 0,12.06896 -11.206896,-12.06896 z"
+         id="path3762"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3764"
+         d="m 51.928785,1022.5914 4.829664,9.9432 -18.103449,0 4.969333,-9.9983 z"
+         style="fill:none;stroke:#5fbcd3;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#5fbcd3;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 51.928785,1032.5914 4.829664,9.9432 -18.103449,0 4.969333,-9.9983 z"
+         id="path3772"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#ff7f2a;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 24.291,988.94318 31.405327,1019.3622 24.291,988.94318 z m 14.325228,0 -7.114327,30.41902 7.114327,-30.41902 z"
+       id="path2998"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/mkreitler/Cocos2D-x/projects/lunarTest/Resources/thrust.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
